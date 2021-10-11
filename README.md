@@ -1,5 +1,6 @@
 # WWDC20
 ![WWDC2020 Header](https://i.imgur.com/b0mvXc1.png)
+![Screenshot](https://i.imgur.com/9igkt9t.jpg)
 
 這是我在WWDC Swift Student Challenge的獲獎作品CamelPlayground  
 作品主旨在於提倡節能減碳、環保愛地球的概念  
